@@ -1,1 +1,1 @@
-Use this repo to test out stuff with Git
+Use this repo to play around with Git
